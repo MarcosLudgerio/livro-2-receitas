@@ -8,6 +8,6 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 -   [Bolo de Cenoura](https://github.com/MarcosLudgerio/livro-2-receitas/blob/master/receitas/bolocenoura.md)
 -   [Pavê](https://github.com/MarcosLudgerio/livro-2-receitas/blob/master/receitas/pave.md)
 
-<blockquote>
-Esse repositório foi criado com o intuíto de aprofundar mais os conhecimentos a respeito do controle de versionamento do git e github
-</blockquote> 
+
+> Esse repositório foi criado com o intuíto de aprofundar mais os conhecimentos a respeito do controle de versionamento do git e github
+
